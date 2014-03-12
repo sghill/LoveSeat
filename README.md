@@ -3,9 +3,9 @@ LoveSeat
 
 Love Seat is a simply architected [CouchDB](http://couchdb.apache.org/) C# client with the 
 intent to abstract away just enough so that it's easy to use, but not enough so that you 
-don't know what's going on.  LoveSeat will not introduce unneeded dependancies and will 
+don't know what's going on.  LoveSeat will not introduce unneeded dependencies and will 
 attempt to remove programmer burden while leaving you close enough to the metal that you are 
-able to utilize the full featureset of CouchDb.
+able to utilize the full featureset of CouchDB.
 
 
 Tested compatibility
